@@ -303,8 +303,8 @@
 						
 						
 						<div class="shipping text-center"><!--shipping-->
-							<img src="images/home/zarkadd1.png" width="275" height="500" alt="" />
-							<a href="https://thezark.in/" type="button" class="btn btn-default get">Visit Now</a>
+							<img src="images/home/setfigAdd1.png" width="275" height="500" alt="" />
+							<a href="https://setfig.com/" target="_blank" type="button" class="btn btn-default get">Visit Now</a>
 						</div><!--/shipping-->
 					
 					</div>
