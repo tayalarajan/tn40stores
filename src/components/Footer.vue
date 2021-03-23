@@ -22,7 +22,7 @@
 						<div class="col-sm-4">
 							<h1>For Contact</h1>
 							<p><i class="fa fa-envelope"></i> setfigfreelancers@gmail.com</p>
-							<p><i class="fa fa-phone"></i> 8883038702</p>
+							<p><i class="fa fa-phone"></i>+91 9025499004</p>
 						</div>
 					</div>
 				</div>
